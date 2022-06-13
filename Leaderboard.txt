@@ -1,0 +1,1 @@
+[['Abdelrahmane', 2100], ['NASQ', 585], ['Abdelrahmane002', 210], ['Nabil', 110], ['James', 50], ['Sanjeed', 25], ['Daniel', 15], ['Mohammed', 15], ['Adrian', 5], ['asda', 0], ['Abdelrahmane', 0], ['asvd', 0], ['abdel', 0], ['abcd', 0]]
